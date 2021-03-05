@@ -1,2 +1,2 @@
-a = ["bmw", "mersedes-bens", "audi"] 
+a = ["m8", "63 amg", "rs6"] 
 print(a) 
